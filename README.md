@@ -65,4 +65,4 @@ Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser
 [nodejs]: https://nodejs.org/
 [expo]: https://docs.expo.dev/
 [rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
+[yarn]: https://yarnpkg.com/# alura-autentication
