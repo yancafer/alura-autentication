@@ -4,6 +4,8 @@
 
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
+## Projeto: em andamento...
+
 <h4 align="center"> 
 	AluraEsporte
 </h4>
